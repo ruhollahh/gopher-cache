@@ -1,1 +1,1 @@
-module gopher-cache
+module github.com/ruhollahh/gopher-cache
